@@ -1,0 +1,25 @@
+{
+  "name": "xr-ai",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.34.3",
+    "@babylonjs/gui": "^7.34.3",
+    "@babylonjs/loaders": "^7.34.3",
+    "@babylonjs/materials": "^7.34.3",
+    "axios": "^1.7.7",
+    "earcut": "^3.0.0",
+    "vue": "^3.5.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.10",
+    "vite-plugin-vue-devtools": "^7.5.4"
+  }
+}
